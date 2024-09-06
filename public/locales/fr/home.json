@@ -1,0 +1,10 @@
+{
+	"title": "Accueil",
+	"meta": {
+		"description": "Page d'accueil"
+	},
+	"description": {
+		"part1": "Description partie 1",
+		"part2": "Description partie 2"
+	}
+}
