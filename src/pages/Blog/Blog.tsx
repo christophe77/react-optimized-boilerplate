@@ -7,7 +7,7 @@ import 'semantic-ui-css/components/header.min.css';
 import 'semantic-ui-css/components/segment.min.css';
 import 'semantic-ui-css/components/image.min.css';
 
-function About() {
+function Blog() {
 	const { t } = useTranslation(['blog']);
 	const { AppContext } = useAppContext();
 	const { state } = useContext(AppContext);
@@ -36,4 +36,4 @@ function About() {
 		</>
 	);
 }
-export default About;
+export default Blog;
