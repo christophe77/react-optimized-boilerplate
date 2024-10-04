@@ -15,6 +15,10 @@
 
 - Semantic UI minified css files imported on each component
 
+### Global state management
+
+- React context with useReducer() and useContext() hooks
+
 ### SEO
 
 - React Helmet async for dynamic metas
