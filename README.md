@@ -60,3 +60,12 @@ Tested on a non tweaked WAMP instance.
 
 - Mobile : 100
 - Desktop : 100
+
+## Performance insights
+
+Page /blog
+
+- DCL : 0.24s
+- FCP : 0.34s
+- LCP : 0.39s
+- CLS : 0.0843
